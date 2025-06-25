@@ -1,6 +1,4 @@
 <img src="profile-banner.png" alt="Banner" style="width:100%; border-radius: 10px;">
-![The Black Lodge](https://github.com/user-attachments/assets/ccd3acf4-a02f-4e23-9bdc-17146a19033f)
-
 
 # 💫 About Me:
 🌌 Somewhere between code and dreams.  
