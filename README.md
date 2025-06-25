@@ -1,4 +1,4 @@
-<img src="profile-banner.png" alt="Banner" style="width:100%; border-radius: 10px;">
+<img src="a.jpg" alt="Banner" style="width:100%; border-radius: 10px;">
 
 # 💫 About Me:
 🌌 Somewhere between code and dreams.  
