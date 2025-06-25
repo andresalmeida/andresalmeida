@@ -1,7 +1,7 @@
 <img src="a.jpg" alt="Banner" style="width:100%; border-radius: 10px;">
 
 # 💫 About Me:
-🌌 Somewhere between code and dreams.  
+<!-- 🌌 Somewhere between code and dreams. -->
 👨🏻‍💻 Software Engineering student at the [University of Armed Forces - ESPE](https://dcco.espe.edu.ec/).  
 🌱 Currently working on geospatial platforms and data visualization dashboards with R, Python and React.  
 📊 Passionate about data analysis, web/mobile development, and building meaningful tools with open-source tech.  
