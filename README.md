@@ -2,23 +2,25 @@
 
 # 💫 About Me:
 <!-- 🌌 Somewhere between code and dreams. -->
-👨🏻‍💻 Software Engineering student at the [University of Armed Forces - ESPE](https://dcco.espe.edu.ec/).  
-🌱 Currently working on geospatial platforms and data visualization dashboards with R, Python and React.  
-📊 Passionate about data analysis, web/mobile development, and building meaningful tools with open-source tech.  
-🌀 Exploring the intersection between technology, art and human experience.
+👨🏻‍💻 Software Engineer specialized in data-driven systems and geospatial analytics.
+🌍 Building web platforms and dashboards that turn complex data into real-world insights.
+🧭 Focused on clean architecture, data visualization, and bridging backend intelligence with intuitive UX.
+🌀 Fascinated by the intersection of technology, human behavior, and design.
 
 ---
 
 ## 🚀 Featured Projects
-- 🔭 **[Kasaychi](https://kasaychi.org/)** — Community-driven tech platform for environmental education 🌱.
+- 🔭 **[Kasaychi](https://kasaychi.org/)** — Community-driven platform for environmental education and data literacy 🌱.
 <!-- - 📊 **[Huella Humana Dashboard](https://github.com/andresalmeida/huella-humana-dashboard)** — ETL + Shiny + React + Docker for environmental indicator visualization. -->
 
 ---
 
 ## 🧠 Currently Learning / Building
-- 🧰 Improving DevOps skills with Docker, CI/CD and cloud deployment (AWS).
-- 🧪 Exploring data pipelines with Python & R.
-- 🕸️ Reading Carl Jung and diving into dream journaling + symbolic thinking.
+
+- 📦 Scaling data pipelines (Python + R + Docker + AWS Lambda).
+- 🧮 Experimenting with geospatial analysis and machine learning for environmental datasets.
+- 🧰 Refining DevOps practices (CI/CD, container orchestration).
+- 📖 Reading Asimov and exploring computational models of social dynamics (psychohistory vibes 👀).
 
 ---
 
