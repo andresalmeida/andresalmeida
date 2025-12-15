@@ -2,15 +2,16 @@
 
 # 💫 About Me:
 <!-- 🌌 Somewhere between code and dreams. -->
-👨🏻‍💻 Software Engineer specialized in data-driven systems and geospatial analytics.
-🌍 Building web platforms and dashboards that turn complex data into real-world insights.
-🧭 Focused on clean architecture, data visualization, and bridging backend intelligence with intuitive UX.
-🌀 Fascinated by the intersection of technology, human behavior, and design.
+- 👨🏻‍💻 Software Engineer specialized in data-driven systems and geospatial analytics.
+- 🌍 Building web platforms and dashboards that turn complex data into real-world insights.
+- 🧭 Focused on clean architecture, data visualization, and bridging backend intelligence with intuitive UX.
+- 🌀 Fascinated by the intersection of technology, human behavior, and design.
 
 ---
 
 ## 🚀 Featured Projects
 - 🔭 **[Kasaychi](https://kasaychi.org/)** — Community-driven platform for environmental education and data literacy 🌱.
+- 🧬 **[Prototipo de Analítica de Datos para Salud Ambiental](https://prototipopoliticapublica-ecuador.streamlit.app/)** — Research prototype (Ecuador, 2025). Data analytics pipeline built with Python and PostGIS integrating INEC, MSP, and MAATE data to analyze parish-level health patterns in oil-activity zones. Includes geospatial metrics (buffers, distances), K-means clustering, and an interactive Streamlit dashboard.
 <!-- - 📊 **[Huella Humana Dashboard](https://github.com/andresalmeida/huella-humana-dashboard)** — ETL + Shiny + React + Docker for environmental indicator visualization. -->
 
 ---
