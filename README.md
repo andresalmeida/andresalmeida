@@ -18,10 +18,10 @@
 
 ## 🧠 Currently Learning / Building
 
-- 📦 Scaling data pipelines (Python + R + Docker + AWS Lambda).
-- 🧮 Experimenting with geospatial analysis and machine learning for environmental datasets.
-- 🧰 Refining DevOps practices (CI/CD, container orchestration).
-- 📖 Reading Asimov and exploring computational models of social dynamics (psychohistory vibes 👀).
+- 📦 Designing and scaling data pipelines using Python and R, with containerization (Docker) and cloud-native workflows.
+- 🌍 Applying geospatial analysis and machine learning to environmental and territorial datasets.
+- ⚙️ Strengthening DevOps fundamentals: CI/CD pipelines, infrastructure automation, and reproducible systems.
+- 📚 Exploring computational and systems-based models of complex social dynamics (inspired by Asimov’s psychohistory).
 
 ---
 
