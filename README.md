@@ -1,5 +1,3 @@
-<img src="goku.jpg" alt="Banner" style="width:100%; border-radius: 10px;">
-
 # 💫 About Me:
 <!-- 🌌 Somewhere between code and dreams. -->
 - 👨🏻‍💻 Software Engineer specialized in data-driven systems and geospatial analytics.
@@ -12,7 +10,9 @@
 ## 🚀 Featured Projects
 - 🔭 **[Kasaychi](https://kasaychi.org/)** — Community-driven platform for environmental education and data literacy 🌱.
 - 🧬 **[Prototipo de Analítica de Datos para Salud Ambiental](https://prototipo-politica-publica.vercel.app/)** — Research prototype (Ecuador, 2025). Data analytics pipeline built with Python and PostGIS integrating INEC, MSP, and MAATE data to analyze parish-level health patterns in oil-activity zones. Includes geospatial metrics (buffers, distances), K-means clustering, and an interactive Streamlit dashboard.
-<!-- - 📊 **[Huella Humana Dashboard](https://github.com/andresalmeida/huella-humana-dashboard)** — ETL + Shiny + React + Docker for environmental indicator visualization. -->
+- 📊 **[Huella Humana Dashboard](https://indigeo.primesys.site/)** — ETL + Shiny + React + Docker for environmental indicator visualization.
+- 👨🏻‍💻 **[A Medias no Cuenta](https://a-medias-no-cuenta.vercel.app/)** - (Datalat / Al Dato, 2026) Food transition, diabetes, and state absence in the Ecuadorian countryside. Visual narrative for public advocacy using open data from **ENSANUT**, **2022 Census**, and **SERCOP**.
+
 
 ---
 
