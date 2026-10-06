@@ -1,6 +1,7 @@
 # 💫 About Me:
 <!-- 🌌 Somewhere between code and dreams. -->
 - 👨🏻‍💻 Software Engineer specialized in data-driven systems and geospatial analytics.
+- 🤖 Building LLM pipelines for classification and validation at scale: open-source judge models, a conditional arbiter and blind audits (SIGC / CEDIA, 12 public universities).
 - 🌍 Building web platforms and dashboards that turn complex data into real-world insights.
 - 🧭 Focused on clean architecture, data visualization, and bridging backend intelligence with intuitive UX.
 - 🌀 Fascinated by the intersection of technology, human behavior, and design.
@@ -8,21 +9,20 @@
 ---
 
 ## 🚀 Featured Projects
-- ⛈️ **[IndiGeo Hazards](https://hazards.primesys.site/)** — Parish-level rainfall, El Niño and surface-water monitor for Ecuador 🌧️. Combines 72 h/7-day precipitation forecasts (WeatherNext 3, calibrated against IMERG), observed rainfall (GSMaP, CHIRPS, ERA5-Land), radar-derived surface water (Sentinel-1, GFM), near-real-time lightning (GOES-19 GLM) and geolocated press reports. Built as an interactive map with ranked hotspots, open data only, and a transparent "how accurate is it?" view. Not an official alert system.
-- 🔭 **[Kasaychi](https://kasaychi.org/)** — Community-driven platform for environmental education and data literacy 🌱.
+- ⛈️ **[IndiGeo Hazards](https://hazards.primesys.site/)** — Parish-level rain, El Niño and flood-risk monitor for Ecuador 🌧️. Fuses satellite, forecast and press data into an interactive map with ranked hotspots. Not an official alert system.
+- 🔭 **[Kasaychi](https://kasaychi.org/)** — Community-driven platform for environmental education and data literacy 🌱. (Agrega aquí una frase de qué construiste tú, como stack o a quién sirve.)
+- 👨🏻‍💻 **[A Medias no Cuenta](https://a-medias-no-cuenta.vercel.app/)** — (Datalat / Al Dato, 2026) Food transition, diabetes, and state absence in the Ecuadorian countryside. Visual narrative for public advocacy using open data from **ENSANUT**, **2022 Census**, and **SERCOP**.
 - 🧬 **[Prototipo de Analítica de Datos para Salud Ambiental](https://prototipo-politica-publica.vercel.app/)** — Research prototype (Ecuador, 2025). Data analytics pipeline built with Python and PostGIS integrating INEC, MSP, and MAATE data to analyze parish-level health patterns in oil-activity zones. Includes geospatial metrics (buffers, distances), K-means clustering, and an interactive Streamlit dashboard.
 - 📊 **[Huella Humana Dashboard](https://indigeo.primesys.site/)** — ETL + Shiny + React + Docker for environmental indicator visualization.
-- 👨🏻‍💻 **[A Medias no Cuenta](https://a-medias-no-cuenta.vercel.app/)** - (Datalat / Al Dato, 2026) Food transition, diabetes, and state absence in the Ecuadorian countryside. Visual narrative for public advocacy using open data from **ENSANUT**, **2022 Census**, and **SERCOP**.
-
 
 ---
 
 ## 🧠 Currently Learning / Building
 
-- 📦 Designing and scaling data pipelines using Python and R, with containerization (Docker) and cloud-native workflows.
+- 🤖 Building LLM-based classification and entity-resolution pipelines for research-data systems.
+- 🔍 Exploring explainable and privacy-preserving AI for credit decisions (federated learning, data masking, SHAP), currently at prototype stage.
+- 🔌 Exploring agents, tool calling and Model Context Protocol (MCP).
 - 🌍 Applying geospatial analysis and machine learning to environmental and territorial datasets.
-- ⚙️ Strengthening DevOps fundamentals: CI/CD pipelines, infrastructure automation, and reproducible systems.
-- 📚 Exploring computational and systems-based models of complex social dynamics (inspired by Asimov’s psychohistory).
 
 ---
 
