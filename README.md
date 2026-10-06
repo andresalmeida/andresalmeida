@@ -8,6 +8,7 @@
 ---
 
 ## 🚀 Featured Projects
+- ⛈️ **[IndiGeo Hazards](https://hazards.primesys.site/)** — Parish-level rainfall, El Niño and surface-water monitor for Ecuador 🌧️. Combines 72 h/7-day precipitation forecasts (WeatherNext 3, calibrated against IMERG), observed rainfall (GSMaP, CHIRPS, ERA5-Land), radar-derived surface water (Sentinel-1, GFM), near-real-time lightning (GOES-19 GLM) and geolocated press reports. Built as an interactive map with ranked hotspots, open data only, and a transparent "how accurate is it?" view. Not an official alert system.
 - 🔭 **[Kasaychi](https://kasaychi.org/)** — Community-driven platform for environmental education and data literacy 🌱.
 - 🧬 **[Prototipo de Analítica de Datos para Salud Ambiental](https://prototipo-politica-publica.vercel.app/)** — Research prototype (Ecuador, 2025). Data analytics pipeline built with Python and PostGIS integrating INEC, MSP, and MAATE data to analyze parish-level health patterns in oil-activity zones. Includes geospatial metrics (buffers, distances), K-means clustering, and an interactive Streamlit dashboard.
 - 📊 **[Huella Humana Dashboard](https://indigeo.primesys.site/)** — ETL + Shiny + React + Docker for environmental indicator visualization.
